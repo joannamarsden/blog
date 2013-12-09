@@ -1,3 +1,0 @@
-== README
-
-Blog application created with the Getting Started tutorial from rubyonrails.org
