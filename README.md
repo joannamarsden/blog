@@ -1,4 +1,5 @@
-== README
+README
+======
 
 Simple blog application 
 
